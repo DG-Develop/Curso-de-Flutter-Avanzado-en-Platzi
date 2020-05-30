@@ -1,79 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/24e6b306a54efd64b03c74cf2732e0d3/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/3ff6b206d24fe69bf1b1033b9fb69e8b/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/7acd01c707bb722157b1bc04a2c5d8cc/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/93a13b7b3e47856b971e10bf5b843b53/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/b3a71a9c7c96d76e947bbff9149a5da7/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/447dfd1af5f1f1b2caba632cc4775bda/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/5e7a9406466708432a6c1c933734eafe/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/f3ce41f5093ef7fa9ed4bdfc989337e1/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ce87470e215219c591a1ee2688e2fd57/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/53c6382ca52704d52d0ac29b081014b8/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/0e1f6ffd0ed1c59aa864ce20e04d4c44/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/666643dd7bdbe4adb05537ecccbc1490/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/06fcbcc4c9d38d010a28c2ecc7d6a817/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ef83a660c6d611d29a4ee5a81d5db19f/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/cc5d36dd1a27c8916e9a6e0adc8547fa/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/fb7937d17dd37cfa475c6dfe914b86fb/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/c66b2a5ea9b2250c4f1d2cb37a2d4f51/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/4ecec997926e092f8f62ab6139cd2d4e/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/1a39142c4af1478fa221642e89015169/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/9c2275da93d65deda602552504db967c/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/eececfae321045557dae2c2f054133d0/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/546f2306aa282c244cccfbf00ad62919/print-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:15:5-38:19
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/c66b2a5ea9b2250c4f1d2cb37a2d4f51/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/c66b2a5ea9b2250c4f1d2cb37a2d4f51/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:16:9-57
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:16:9-57
 activity#com.anncode.platzitripsapp.MainActivity
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:19:9-37:20
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:19:9-37:20
 	android:launchMode
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:21:13-43
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:21:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:24:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:25:13-55
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:25:13-55
 	android:configChanges
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:23:13-137
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:23:13-137
 	android:theme
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:20:13-41
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:20:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:30:13-32:40
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:30:13-32:40
 	android:value
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:32:17-37
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:32:17-37
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:31:17-82
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:31:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:34:17-68
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:35:17-76
+ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/24e6b306a54efd64b03c74cf2732e0d3/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/24e6b306a54efd64b03c74cf2732e0d3/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/3ff6b206d24fe69bf1b1033b9fb69e8b/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/3ff6b206d24fe69bf1b1033b9fb69e8b/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/7acd01c707bb722157b1bc04a2c5d8cc/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/7acd01c707bb722157b1bc04a2c5d8cc/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/93a13b7b3e47856b971e10bf5b843b53/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/93a13b7b3e47856b971e10bf5b843b53/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/b3a71a9c7c96d76e947bbff9149a5da7/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/b3a71a9c7c96d76e947bbff9149a5da7/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/447dfd1af5f1f1b2caba632cc4775bda/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/447dfd1af5f1f1b2caba632cc4775bda/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/5e7a9406466708432a6c1c933734eafe/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/5e7a9406466708432a6c1c933734eafe/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/f3ce41f5093ef7fa9ed4bdfc989337e1/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/f3ce41f5093ef7fa9ed4bdfc989337e1/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ce87470e215219c591a1ee2688e2fd57/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ce87470e215219c591a1ee2688e2fd57/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/53c6382ca52704d52d0ac29b081014b8/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/53c6382ca52704d52d0ac29b081014b8/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/0e1f6ffd0ed1c59aa864ce20e04d4c44/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/0e1f6ffd0ed1c59aa864ce20e04d4c44/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/83414a47bbe48c7825740bb8ccc136b5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/666643dd7bdbe4adb05537ecccbc1490/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/666643dd7bdbe4adb05537ecccbc1490/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/06fcbcc4c9d38d010a28c2ecc7d6a817/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/06fcbcc4c9d38d010a28c2ecc7d6a817/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ef83a660c6d611d29a4ee5a81d5db19f/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/ef83a660c6d611d29a4ee5a81d5db19f/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/cc5d36dd1a27c8916e9a6e0adc8547fa/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/cc5d36dd1a27c8916e9a6e0adc8547fa/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/fb7937d17dd37cfa475c6dfe914b86fb/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dgdband/.gradle/caches/transforms-2/files-2.1/fb7937d17dd37cfa475c6dfe914b86fb/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/c66b2a5ea9b2250c4f1d2cb37a2d4f51/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/c66b2a5ea9b2250c4f1d2cb37a2d4f51/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/4ecec997926e092f8f62ab6139cd2d4e/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/4ecec997926e092f8f62ab6139cd2d4e/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/1a39142c4af1478fa221642e89015169/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/1a39142c4af1478fa221642e89015169/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/9c2275da93d65deda602552504db967c/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/9c2275da93d65deda602552504db967c/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/eececfae321045557dae2c2f054133d0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/eececfae321045557dae2c2f054133d0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/546f2306aa282c244cccfbf00ad62919/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dgdband/.gradle/caches/transforms-2/files-2.1/546f2306aa282c244cccfbf00ad62919/print-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml

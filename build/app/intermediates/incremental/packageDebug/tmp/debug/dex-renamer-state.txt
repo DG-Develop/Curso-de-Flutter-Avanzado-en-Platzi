@@ -1,4 +1,7 @@
-#Mon Apr 15 20:22:06 COT 2019
-base.0=/Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/build/app/intermediates/transforms/dexMerger/debug/0
+#Thu May 28 23:31:32 CDT 2020
+base.0=/home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/home/dgdband/Documentos/Platzi/Flutter/Programa/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
